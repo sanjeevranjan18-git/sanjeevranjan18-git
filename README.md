@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Sinha</h1>
 <h3 align="center">Innovative DevOps Leader: Azure DevOps, Terraform, Docker, Kubernetes, Helm, and CI/CD Pipeline Expertise.</h3>
 
-<image align="right" alt="devops" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
+<image align="cnnter" alt="devops" width="600" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevranjan18-git" alt="sanjeevranjan18-git" /></a> </p>
 
