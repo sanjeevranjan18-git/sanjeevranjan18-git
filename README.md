@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Sinha</h1>
 <h3 align="center">Innovative DevOps Leader: Azure DevOps, Terraform, Docker, Kubernetes, Helm, and CI/CD Pipeline Expertise.</h3>
 
-<image align="cnnter" alt="devops" width="600" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
-
+<image align="left" alt="devops" width="400" src="https://ticvic.com/wp-content/uploads/2023/02/why-ticvic.gif">
+<image align="right" alt="devops" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevranjan18-git" alt="sanjeevranjan18-git" /></a> </p>
 
 - 🔭 I’m currently working on **eResturent Application**
